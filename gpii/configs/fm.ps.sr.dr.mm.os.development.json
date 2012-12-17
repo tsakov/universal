@@ -18,6 +18,7 @@
         "../node_modules/matchMaker/configs/development.json",
         "../node_modules/ontologyServer/configs/development.json",
         "../node_modules/preferencesServer/configs/development.json",
-        "../node_modules/solutionsRegistry/configs/development.json"
+        "../node_modules/solutionsRegistry/configs/development.json",
+        "../node_modules/personalControlPanel/configs/development.json"
     ]
 }
