@@ -1,1 +1,5 @@
-{"http://registry.gpii.org/common/fontSize":[{"value":17}],"http://registry.gpii.org/common/foregroundColor":[{"value":"black"}],"http://registry.gpii.org/common/onscreenKeyboard":[{"value":false}]}
+{
+    "http://registry.gpii.org/common/fontSize": [{ "value": 12 }],
+    "http://registry.gpii.org/common/foregroundColor": [{ "value": "black" }],
+    "http://registry.gpii.org/common/onscreenKeyboard": [{ "value": true }]
+}
